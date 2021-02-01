@@ -961,6 +961,16 @@ a {
   background-repeat: no-repeat;
 }
 
+.thumb-full.homemayd8 {
+  position: static;
+  padding-top: 100px;
+  border-radius: 10px;
+  background-image: url('../images/bg-blue.png');
+  background-position: 40% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
 .thumb-full.culturecene6 {
   border-radius: 10px;
   background-image: url('../images/muralframe.jpg');

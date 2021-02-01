@@ -1,6 +1,8 @@
-@font-face{font-family:'CircularPro-Book';src:url("/fonts/CircularPro-Book.otf") ;
-src:url("/fonts/CircularPro-Book.otf") 
-format("embedded-opentype"),url("/fonts/CircularPro-Book.otf") 
+@font-face{font-family:'RobotoMedium';src:url("/fonts/Roboto-Medium-webfont.eot");
+src:url("/fonts/Roboto-Medium-webfont.eot?#iefix") 
+format("embedded-opentype"),url("/fonts/Roboto-Medium-webfont.woff") 
+format("woff"),url("/fonts/Roboto-Medium-webfont.ttf") 
+format("truetype"),url("/fonts/Roboto-Medium-webfont.svg#RobotoMedium") 
 format("svg");
 font-weight:normal;
 font-style:normal
@@ -11,7 +13,7 @@ body {
     background-image:url("../images/background.jpg");
     background-size:100%;
     background-size:cover;
-    font-family:'CircularPro-Book';
+    font-family:'RobotoMedium';
     margin:0;
     padding:0
     }
@@ -43,3 +45,4 @@ iframe{transform:scale(0.219);-webkit-transform:scale(0.219);-o-transform:scale(
 @media (max-width: 670px){.display{height:400px;left:-70px;transform:scale(0.45);-webkit-transform:scale(0.45);-o-transform:scale(0.45);-ms-transform:scale(0.45);-moz-transform:scale(0.45)}}@media (max-width: 580px){input{font-size:1.4em;height:1.4em;width:100%}a.button{width:100%;float:left;font-size:1.4em;margin-top:0.5em}}
 @media (max-width: 560px){.display{height:270px;top:-65px;transform:scale(0.37);-webkit-transform:scale(0.37);-o-transform:scale(0.37);-ms-transform:scale(0.37);-moz-transform:scale(0.37)}}@media (max-width: 440px){.display{left:-17px;top:-65px;width:70px;transform:scale(0.35);-webkit-transform:scale(0.35);-o-transform:scale(0.35);-ms-transform:scale(0.35);-moz-transform:scale(0.35)}}
 @media (max-width: 380px){.display{height:235px;left:-17px;top:-65px;width:70px;transform:scale(0.27);-webkit-transform:scale(0.27);-o-transform:scale(0.27);-ms-transform:scale(0.27);-moz-transform:scale(0.27)}.desktop{left:0px}.laptop{left:515px}.tablet{left:0px}.mobile{left:180px}h1{font-size:1.2em}p{margin:1em}}
+

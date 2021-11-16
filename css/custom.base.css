@@ -983,7 +983,7 @@ a {
   border-radius: 10px;
   background-color: #D3A36B;
   background-image: url('../images/fonts.svg');
-  background-position: 50% 50%;
+  background-position: 30% 0%;
   background-size: contain;
   background-repeat: no-repeat;
 }

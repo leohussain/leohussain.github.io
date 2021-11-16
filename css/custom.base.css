@@ -929,8 +929,8 @@ a {
 
 .thumb-full.culturecene1 {
   border-radius: 10px;
-  background-color: #ffe8e0;
-  background-image: url('../images/cene_logo.png');
+  background-color: #916b51;
+  background-image: url('../images/FullLogo_500x250.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -938,7 +938,7 @@ a {
 
 .thumb-full.culturecene2 {
   border-radius: 10px;
-  background-image: url('../images/culturecene.jpg');
+  background-image: url('../images/homebg.png');
   background-position: 50% 50%;
   background-size: 450px;
 }
@@ -980,7 +980,7 @@ a {
 
 .thumb-full.culturecene5 {
   border-radius: 10px;
-  background-color: #edbdb3;
+  background-color: #916b51;
   background-image: url('../images/fonts.svg');
   background-position: 50% 50%;
   background-size: contain;

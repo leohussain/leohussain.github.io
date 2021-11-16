@@ -929,7 +929,7 @@ a {
 
 .thumb-full.culturecene1 {
   border-radius: 10px;
-  background-color: #916b51;
+  background-color: #D3A36B;
   background-image: url('../images/FullLogo_500x250.png');
   background-position: 50% 50%;
   background-size: contain;
@@ -940,7 +940,8 @@ a {
   border-radius: 10px;
   background-image: url('../images/homebg.png');
   background-position: 50% 50%;
-  background-size: 450px;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .thumb-full.homemayd1 {
@@ -980,9 +981,9 @@ a {
 
 .thumb-full.culturecene5 {
   border-radius: 10px;
-  background-color: #916b51;
+  background-color: #D3A36B;
   background-image: url('../images/fonts.svg');
-  background-position: 50% 50%;
+  background-position: 30% 0%;
   background-size: contain;
   background-repeat: no-repeat;
 }

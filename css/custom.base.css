@@ -990,8 +990,42 @@ a {
 
 .thumb-full.maps1 {
   border-radius: 10px;
+  background-image: url('../images/Disso.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.thumb-full.maps2 {
+  border-radius: 10px;
+  background-image: url('../images/School_Superzones.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center
+}
+
+.thumb-full.maps3 {
+  border-radius: 10px;
+  background-image: url('../images/SF_EQ.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center
+}
+
+.thumb-full.maps4 {
+  border-radius: 10px;
+  background-image: url('../images/BoEProcess.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center
+}
+
+.thumb-full.maps5 {
+  border-radius: 10px;
   background-image: url('../images/30daymap.png');
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center
 }
 
 .thumb-full.cactus5 {
@@ -1829,6 +1863,18 @@ html.w-mod-js *[data-ix="modal-interaction"] {
   .thumb-full.maps1 {
     background-position: 50% 50%;
   }
+  .thumb-full.maps2 {
+    background-position: 50% 50%;
+  }
+  .thumb-full.maps3 {
+    background-position: 50% 50%;
+  }
+  .thumb-full.maps4 {
+    background-position: 50% 50%;
+  }
+  .thumb-full.maps5 {
+    background-position: 50% 50%;
+  }
   .footer-section {
     height: 280px;
   }
@@ -2066,6 +2112,23 @@ html.w-mod-js *[data-ix="modal-interaction"] {
     border-radius: 0px;
   }
   .thumb-full.maps1 {
+    border-radius: 0px;
+    background-position: 50% 0px;
+    background-size: 108%;
+  }
+  .thumb-full.maps2 {
+    border-radius: 0px;
+    background-position: 50% 0px;
+    background-size: 108%;
+  }.thumb-full.maps3 {
+    border-radius: 0px;
+    background-position: 50% 0px;
+    background-size: 108%;
+  }.thumb-full.maps4 {
+    border-radius: 0px;
+    background-position: 50% 0px;
+    background-size: 108%;
+  }.thumb-full.maps5 {
     border-radius: 0px;
     background-position: 50% 0px;
     background-size: 108%;

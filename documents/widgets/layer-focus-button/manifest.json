@@ -1,0 +1,22 @@
+{
+  "name": "layer-focus-button",
+  "label": "Layer Focus Button",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "type": "widget",
+  "version": "1.16.0",
+  "exbVersion": "1.16.0",
+  "author": "RasterFan",
+  "description": "Button to focus on a layer",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 100,
+    "height": 75
+  }
+}

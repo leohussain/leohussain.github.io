@@ -1,0 +1,24 @@
+{
+  "name": "layer-toggle-button",
+  "label": "Layer Toggle Button",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "type": "widget",
+  "version": "1.16.0",
+  "exbVersion": "1.16.0",
+  "author": "RasterFan",
+  "description": "Button to focus on a layer",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasBuilderSupportModule": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 100,
+    "height": 75
+  }
+}
